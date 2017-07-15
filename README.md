@@ -1,2 +1,2 @@
-# weather
-Fast weather information on current day
+# Weather
+Quick note about today's weather
