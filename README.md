@@ -15,4 +15,5 @@ or give your city name as an argument:
 `./weather.py Warsaw, Poland`
 
 *Python 3.6.1*
+
 *For Windows & Linux*
